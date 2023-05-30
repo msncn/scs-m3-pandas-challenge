@@ -48,7 +48,7 @@ Below are the bottom performing schools and they are all Distrct schools, it is 
 
 ![image](https://github.com/msncn/scs-m4-pandas-challenge/assets/130943141/791e3b37-1d5a-40a9-9432-0ccb74bf9b4b)
 
-Below is the analysis based on the spending ranges per student and it showed that there is no positive correlation between the money spent on each student and their passing rate for both their math and reading score.
+Below is the analysis based on the spending ranges per student and it showed that more money spent on each student does not lead to higher passing rate for both their math and reading score.
 
 ![image](https://github.com/msncn/scs-m4-pandas-challenge/assets/130943141/15d942d6-bb46-47fc-8bee-9aeafe0faa6a)
 
